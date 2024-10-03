@@ -21,6 +21,22 @@ Las etiquetas en __*HTML*__ y ***Markdown*** pueden anidarse
 - Segundo punto de lista desordenada
 + Tercer punto de lista desordenada
 
+**Como mostrar codigo en un repositorio**
+```
+<DOCTYPE html>
+<html lang="en">
+<head>
+    <tr>Hola mundo</tr>
+</head>
+<body>
 
+</body>
+</html>
+```
+## Como poner un link
+[Jesuites](https://net4.net.fje.edu/lanet/#/lanet "Titulo opcional")
+
+## Como poner una imagen
+![Texto](markdown/EsferaGohan.jpg "Titulo opcional")
 
 
