@@ -39,4 +39,12 @@ Las etiquetas en __*HTML*__ y ***Markdown*** pueden anidarse
 ## Como poner una imagen
 ![Abuelito](https://github.com/ManuelGalvez96/markdown/blob/main/EsferaGohan.jpg "Titulo opcional")
 
+## Tablas
+| **Titulo 1** | **Titulo 2** | **Titulo 3** |
+|:----------:|-------------------:|:--------------|
+|SMX2|Curso24-25|2080$|
+
+
+
+
 
