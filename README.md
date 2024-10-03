@@ -37,6 +37,6 @@ Las etiquetas en __*HTML*__ y ***Markdown*** pueden anidarse
 [Jesuites](https://net4.net.fje.edu/lanet/#/lanet "Titulo opcional")
 
 ## Como poner una imagen
-![Texto](markdown/EsferaGohan.jpg "Titulo opcional")
+![Abuelito](https://github.com/ManuelGalvez96/markdown/blob/main/EsferaGohan.jpg "Titulo opcional")
 
 
